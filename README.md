@@ -2,9 +2,6 @@
 
 
 🔭 I’m currently working on a healthcare management information system.<br>
-👯 I’m looking to collaborate on implementing code in JS to capture fingerprints from the Secugen fingerprint reader.<br>
-🤝 I’m implementing fingerprint reader code in JavaScript.<br>
-🌱 I’m currently learning React.<br>
 ⚡ Fun fact - I am learning as I go.
 
 
